@@ -1,0 +1,12 @@
+﻿l_german:
+ 
+
+#Modded "Verbesserte Spionage-Slots"
+upgrade_spy_begin:0 "Spionen Rekrutierung"
+upgrade_spy_rec1:0 "Budgeterhöhung der operativen Rekrutierung "
+upgrade_spy_rec1_desc:0 "§LUm ein Spionageprogramm aufrechtzuerhalten, müssen wir mehrere Mitarbeiter haben, die sicherstellen, dass wir von jeden unserer Kontrahenten den nächsten Schritt kennen. Der einzige Weg, dies zu tun, besteht natürlich darin, mehr Mitarbeiter einzustellen, aber das erfordert Geld ...§"
+upgrade_spy_rec2:0 "Erweiterte Rekrutierung"
+upgrade_spy_rec2_desc:0 "§LMit der bereits genehmigten Aufstockung der Mittel für die Einstellung von Spionen, fehlt es uns trotzdem noch an Mitarbeitern auf diesem Gebiet. Wir müssen die Finanzierung weiter erhöhen§"
+spy_begintt:0 "Schaltet § Operative Finanzierung §! Optionen frei."
+upgrade_spy_rec3:0 "Ausländisches Spionageprogramm"
+upgrade_spy_rec3_desc:0 "§LIndem wir möglicherweise interessierte ausländische Agenten rekrutieren, könnten wir ein Volk gegen sich selbst einsetzen, wobei noch der Agent sich viel einfacher maskieren und einfügen kann. Dies kann für uns sehr hilfreich sein, wenn wir ein Programm zur Rekrutierung ausländischer Agenten starten.§"
