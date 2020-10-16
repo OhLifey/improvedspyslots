@@ -1,4 +1,4 @@
-version="1.9.2"
+version="1.10.1"
 tags={
 	"Sound"
 	"Translation"
@@ -16,8 +16,7 @@ tags={
 	"Historical"
 	"Ideologies"
 }
-name="[1.9.2] Improved Spy Slots & Upgrades"
+name="[1.10.1] Improved Spy Slots & Upgrades"
 picture="thumbnail.png"
-supported_version="1.9.*"
-path="C:/Users/charl/Documents/Paradox Interactive/Hearts of Iron IV/mod/improvedspyslots"
+supported_version="1.10.*"
 remote_file_id="2008308819"

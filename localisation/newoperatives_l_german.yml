@@ -2,6 +2,12 @@
  
 
 #Modded "Verbesserte Spionage-Slots"
+branch_spyrecruitment:0 "Spionen Rekrutierung"
+upgrade_spy1:0 "Garnisonsicherheitsinitiative"
+upgrade_spy1_desc:0 "Indem wir eine Doktrin zum Schutz unserer Garnisonen aufstellen, können wir sicher sein, dass neue Länder nicht vom Widerstand überrannt werden."
+upgrade_spyresistancetraining:0 "Spionage-Widerstandstraining"
+upgrade_spyresistancetraining_desc:0 "Indem wir unsere Spione stärker militarisieren, können wir sicherstellen, dass alle lokalen Operationen zur Unterstützung des Widerstands reibungsloser mit unseren Spionen an vorderster Front verlaufen, um entlang der lokalen Widerstandslinie zu kämpfen."
+branch_spyrrecruitment:0 "Spionage-Rekrutierung"
 upgrade_spy_begin:0 "Spionen Rekrutierung"
 upgrade_spy_rec1:0 "Budgeterhöhung der operativen Rekrutierung "
 upgrade_spy_rec1_desc:0 "§LUm ein Spionageprogramm aufrechtzuerhalten, müssen wir mehrere Mitarbeiter haben, die sicherstellen, dass wir von jeden unserer Kontrahenten den nächsten Schritt kennen. Der einzige Weg, dies zu tun, besteht natürlich darin, mehr Mitarbeiter einzustellen, aber das erfordert Geld ...§"
